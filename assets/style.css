@@ -21,7 +21,7 @@ body {
 }
 
 .cartao_conteudo {
-    background-color: var(--card-front-color);
+    background-color: var(--card-front-color)
     text-align: center;
     /*background-color: aquamarine; */
     height: 100%;
