@@ -20,14 +20,14 @@ body {
     flex-basis: calc(33% - 6rem);
 }
 
-.cartao_conteudo {
+.cartao__conteudo {
     background-color: var(--card-front-color);
     text-align: center;
     /*background-color: aquamarine; */
     height: 100%;
 }
 
-.cartao_conteudo h3 {
+.cartao__conteudo h3 {
     color: var(--text-color);
     border: 1px solid var(--text-color);
     text-align: left;
