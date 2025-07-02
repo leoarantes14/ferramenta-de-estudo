@@ -55,11 +55,13 @@ body {
 
 
 
+    font-weight: 500;
+}
 
 
 footer {
     background-color: rgb(21, 219, 193);
-    color: rgb(7, 237, 245);
+    color: rgb(176, 10, 226);
     position: fixed;
     bottom: 0;
     width: 100%;
