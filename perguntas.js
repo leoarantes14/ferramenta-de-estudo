@@ -6,4 +6,11 @@ criaCartao(
 
 criaCartao(
   'Esporte'
+  'Quanto sportes existem?'
+  'existem mais de 8.000 esportes e jogos esportivos em todo o mundo. Isso inclui desde as modalidades mais conhecidas e olímpicas até as regionais, folclóricas e recreativas.'
+)
+
+criaCartao(
+  'Esporte'
+  
 )
