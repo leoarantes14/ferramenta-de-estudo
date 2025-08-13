@@ -18,5 +18,18 @@ criaCartao(
 
 criaCartao(
   'Esportes'
-  
+  'Qual o país com mais conquistas nas Olímpiadas?'
+  'Atualmente o país com mais conquistas é os Estado Unidos com 2.980 medalhas'
+)
+
+criaCartao(
+  'Esportes'
+  'Ranking dos Estados Unidos nas Olímpiadas de Paris 2024'
+  'Os EUA ficaram em primeiro no Ranking das medalhas, com 126 medalhas'
+)
+
+criaCartao(
+  'Esportes'
+  'Ranking do Brasil nas Olímpiadas de Paris 2024'
+  'O desempenho do Brasil (foi o 20º no ranking, com 3 ouros, 7 pratas e 10 bronzes)
 )
