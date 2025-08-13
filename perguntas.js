@@ -15,3 +15,8 @@ criaCartao(
   'O que são as Olímpiadas?'
   'As Olimpíadas, ou Jogos Olímpicos, são o maior evento multiesportivo do mundo, reunindo atletas de praticamente todos os países para competir em diversas modalidades. Eles são um símbolo global de união, paz e superação, celebrando a excelência física e o espírito esportivo.'  
 )
+
+criaCartao(
+  'Esportes'
+  
+)
